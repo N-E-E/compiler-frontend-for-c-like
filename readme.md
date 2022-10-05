@@ -6,9 +6,9 @@
 
 ./my_tiny_compiler.exe: 可执行文件，需要在windows或linux的wine环境下运行。
 
-./U202115513虞快.docx: 课程设计报告
+./project.docx: 课程设计报告
 
-./U202115513虞快.pdf: 课程设计报告
+./project.pdf: 课程设计报告
 
 ./test.txt: 测试输入文件
 
