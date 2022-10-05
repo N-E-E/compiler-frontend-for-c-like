@@ -1,0 +1,11 @@
+# ninja log v5
+4	407	6833995498726407	CMakeFiles/my_tiny_compiler.dir/get_token.cpp.obj	b09989d94bfc751d
+3	703	6838144487992174	CMakeFiles/my_tiny_compiler.dir/main.cpp.obj	266f1c113fa1e424
+4	1011	6840809324919421	CMakeFiles/my_tiny_compiler.dir/format_operation.cpp.obj	b32824f3826775f7
+2	483	6839566283540572	CMakeFiles/my_tiny_compiler.dir/syntax_analyse.cpp.obj	1f409a3deb2abf91
+1012	1676	6840809331518562	my_tiny_compiler.exe	e923557ed438ab27
+8	448	6866693725633002	CMakeFiles/my_tiny_compiler.dir/get_token.cpp.obj	ff026e3f8b1b8ed6
+3	494	6866693726103117	CMakeFiles/my_tiny_compiler.dir/main.cpp.obj	a45b4000f2b2306e
+11	630	6866693727460993	CMakeFiles/my_tiny_compiler.dir/format_operation.cpp.obj	22a9936a00e6f232
+15	691	6866693728052197	CMakeFiles/my_tiny_compiler.dir/syntax_analyse.cpp.obj	f57aa2f82ca00dbd
+692	1221	6866693733274378	my_tiny_compiler.exe	e923557ed438ab27

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "my_tiny_compiler",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "my_tiny_compiler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_tiny_compiler-Debug-c9730b15ea146105a788.json",
+					"name" : "my_tiny_compiler",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/\u6570\u636e\u7ed3\u6784\u8bfe\u8bbe\u62a5\u544a/my-tiny-compiler/cmake-build-debug",
+		"source" : "E:/\u6570\u636e\u7ed3\u6784\u8bfe\u8bbe\u62a5\u544a/my-tiny-compiler"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

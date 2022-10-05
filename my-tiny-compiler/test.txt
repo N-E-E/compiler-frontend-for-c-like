@@ -1,0 +1,65 @@
+#include <stdio.h>
+#define TEST 1
+int a;  // 外部变量定义
+long b;
+char _d, _e;
+double c, h;
+int num[10];
+int i;
+int func(int a, int b) {  // 函数定义
+int test;
+a = 1;
+b = 1;
+c = .14;
+h = 3.13f;
+_d = '\x22';
+_e = '\t';
+a = 1 + b;
+b = 2 + b;
+b = c;
+if (a == b)  // if
+a = a + b;
+else if (a < b) {  // 块if、嵌套if
+a = a - b;
+num[10] = "string";
+if (a > b) {
+a = a + 1;
+}
+}
+else {
+a = a / b;
+a = a + 1;
+}
+if (a > b)
+a = a && b;
+if (a > b) {
+a = (a + 1) * 3;
+b = b + c + 2;
+}
+while (1) {  // 嵌套while
+if (a > b) {
+a = (a + 1) * 3;
+b = b + c + 2;
+break;
+}
+if (a < b) {
+continue;
+}
+while (a == 1) {
+a = a || b;
+}
+}
+for (i = 0; i < a; i=i+1) {  // for循环
+a = a + 1;
+}
+for (;; i=i-1) {  // 空条件for
+a = (a + 1) * 2;
+}
+return a + b;
+}
+/*函数声明*/
+void def();
+~
+//已经实现的报错：变量为void类型、变量为未知类型、变量命名不规范、函数没有返回值、函数形参错误、
+//出现未知符号、变量重复定义、void函数有返回值、break语句缺少分号、continue缺少分号、非循环
+//出现break/continue、使用未定义的变量
