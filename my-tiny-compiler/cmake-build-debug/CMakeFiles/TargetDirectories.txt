@@ -1,3 +1,0 @@
-E:/数据结构课设报告/my-tiny-compiler/cmake-build-debug/CMakeFiles/my_tiny_compiler.dir
-E:/数据结构课设报告/my-tiny-compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/数据结构课设报告/my-tiny-compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
